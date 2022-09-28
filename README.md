@@ -3,8 +3,8 @@
 
 ### Será avaliado:
 
-Clareza no código
-Estrutura de commits
+* Clareza no código
+* Estrutura de commits
 
 
 ### Atividade a ser realizada
