@@ -5,3 +5,5 @@ var_a, var_b = var_b, var_a
 
 print(f"var_a: {var_a}")
 print(f"var_b: {var_b}")
+
+input()

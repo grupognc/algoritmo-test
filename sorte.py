@@ -11,4 +11,6 @@ elif num_sorte == 7:
 
 elif num_sorte > 10:
     print("O número de sorte deve ser de 0 a 10.")
+
+input()
     
