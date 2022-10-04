@@ -1,25 +1,15 @@
 # Teste de algoritmo
+Autor do código: Vinícius Dias Souza
 
+### Atividade realizada
+A atividade consiste de 3 algoritmos distintos desenvolvidos através da linguagem C/C++, utilizando a IDE VScode.
+Ao todo há 5 arquivos no projeto além deste, sendo estas 1 arquivo "main" ou "principal" e 4 arquivos .h, que
+são funções que serão executadas no "main".
 
-### Será avaliado:
+Inicialmente, deve-se realizar um clone do projeto no github e armazenar todos os arquivos em uma mesma pasta. Para
+executar o  algoritmo é necessário apenas abrir o arquivo "main" e apertar o botão de executar o código. Se estiver
+usando o VScode, basta apertar a tecla 'F8". 
 
-* Clareza no código
-* Estrutura de commits
-
-
-### Atividade a ser realizada
-Realizar o clone do repositório, crie uma nova branch com seu nome-sobrenome e implemente os seguintes algoritmos em arquivos/classes separadas, utilizando a linguagem/framework de sua escolha. Atualize o readme com uma breve descrição de como os algoritmos deveraão ser executados. Ao finalizar, crie um PR para avaliação.
-
-1. Escreva um algoritmo que armazene o valor 10 em uma variável A e o valor 20 em uma variável B.
-A seguir (utilizando apenas atribuições entre variáveis) troque os seus conteúdos fazendo com que o
-valor que está em A passe para B e vice-versa. Ao final, escrever os valores que ficaram armazenados
-nas variáveis e exibi-los na tela. 
-
-2. Escreva um algoritmo que exiba na tela os valores impares no intervalo 0 a 100.
-
-3. Escreva um algoritmo que capture a entrada de dados do usuário , e realize as seguintes validações enquanto o número for menor 7
-
-  * Se o valor menor do 7, exibir que a entrada é menor do que o número de sorte.
-  * Se o valor maior do que 7, exibir que a entrada é a maior do que o número de sorte.
-  * Se o número for igual a 7, exibir "Você acertou" e finalizar o algoritmo.
-  * Se o número for maior do que 10, exibir "O número de sorte deve ser de 0 a 10".
+Ao executar o programa, as descrições dos algoritmos vão aparecer e o usuario pode testa-las selecionando as opções
+disponíveis de acordo com as instruções durante as execuções. Por fim, é possível encerrar os testes dos algoritmos
+se tiver terminado suas ações. 
