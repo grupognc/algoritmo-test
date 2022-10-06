@@ -2,7 +2,7 @@
 
 
 ### Será avaliado:
-
+sdasdasdas
 * Clareza no código
 * Estrutura de commits
 
