@@ -26,7 +26,7 @@ print("O valor de B é : \n",B)
 
 O código acima faz um um algoritmo que armazena o valor 10 em uma variável A e o valor 20 em uma variável B. A seguir (utilizando apenas atribuições entre variáveis) troqua os seus conteúdos fazendo com que o valor que está em A passe para B e vice-versa. Ao final, escreve os valores que ficaram armazenados nas variáveis e exibe na tela.
 
-![Clicking a cat game](https://im5.ezgif.com/tmp/ezgif-5-058c0e1813.gif)
+![Clicking a cat game](https://uploaddeimagens.com.br/images/004/051/124/original/Atividade_1.png?1665018658)
 
 
 # Clique aqui
@@ -44,7 +44,7 @@ for num in range(start, end + 1):
 
 O código acima faz exibir na tela os valores impares no intervalo 0 a 100.
 
-![Clicking a cat game](https://im5.ezgif.com/tmp/ezgif-5-f4a798f3c1.gif)
+![Clicking a cat game](https://uploaddeimagens.com.br/images/004/051/126/original/Atividade_2.png?1665018708)
 
 
 # Clique aqui
@@ -75,4 +75,4 @@ Se o valor maior do que 7, exibe que a entrada é a maior do que o número de so
 Se o número for igual a 7, exibe "Você acertou" e finaliza o algoritmo.
 Se o número for maior do que 10, exibe "O número de sorte deve ser de 0 a 10".
 
-![Clicking a cat game](https://im5.ezgif.com/tmp/ezgif-5-ec286bf41a.gif)
+![Clicking a cat game](https://uploaddeimagens.com.br/images/004/051/129/original/Atividade_3.png?1665018803)
