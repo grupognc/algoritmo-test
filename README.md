@@ -49,7 +49,7 @@ O código acima faz exibir na tela os valores impares no intervalo 0 a 100.
 
 # Clique aqui
 
-[![Try on repl.it](https://repl-badge.jajoosam.repl.co/try.png)]()
+[![Try on repl.it](https://repl-badge.jajoosam.repl.co/try.png)](https://replit.com/@Aoong/AlgoritmoQueCapture#main.py)
 
 ```python
 print("Olá, Digite um número da sorte:")
