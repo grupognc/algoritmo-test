@@ -1,11 +1,12 @@
 # Teste de algoritmo
-
+São 3 códigos a serem implementados.
+Feitos em Java
 
 ### Será avaliado:
 
 * Clareza no código
 * Estrutura de commits
-
+* O funcionamento dos códigos
 
 ### Atividade a ser realizada
 Realizar o clone do repositório, crie uma nova branch com seu nome-sobrenome e implemente os seguintes algoritmos em arquivos/classes separadas, utilizando a linguagem/framework de sua escolha. Atualize o readme com uma breve descrição de como os algoritmos deveraão ser executados. Ao finalizar, crie um PR para avaliação.
