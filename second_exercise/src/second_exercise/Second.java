@@ -1,6 +1,6 @@
 package second_exercise;
 
-public class second_question {
+public class Second {
 
 	public static void main(String[] args) {
 		
