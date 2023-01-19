@@ -15,7 +15,11 @@ A seguir (utilizando apenas atribuições entre variáveis) troque os seus conte
 valor que está em A passe para B e vice-versa. Ao final, escrever os valores que ficaram armazenados
 nas variáveis e exibi-los na tela. 
 
+Execução: Ao dar run na tela, é possível ver as saídas no terminal do programa. Fiz em java, então a IDE mais correta é o Eclipse. A aplicação também pode ser rodada no Replit. 
+
 2. Escreva um algoritmo que exiba na tela os valores impares no intervalo 0 a 100.
+
+Execução: Ao dar run na tela, é possível ver as saídas no terminal do programa. Fiz em java, então a IDE mais correta é o Eclipse. A aplicação também pode ser rodada no Replit. 
 
 3. Escreva um algoritmo que capture a entrada de dados do usuário , e realize as seguintes validações enquanto o número for menor 7
 
@@ -23,3 +27,5 @@ nas variáveis e exibi-los na tela.
   * Se o valor maior do que 7, exibir que a entrada é a maior do que o número de sorte.
   * Se o número for igual a 7, exibir "Você acertou" e finalizar o algoritmo.
   * Se o número for maior do que 10, exibir "O número de sorte deve ser de 0 a 10".
+  
+ Execução: Ao dar run na tela, é possível ver as saídas no terminal do programa. Fiz em java, então a IDE mais correta é o Eclipse. A aplicação também pode ser rodada no Replit. Para testar, inicie a execução com algum número. Dependendo do número, uma saída sairá. 
