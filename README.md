@@ -16,6 +16,7 @@ Antes de prosseguir com a explicação de como testar o <b>código</b>, gostaria
 2. Live Server: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
   -Para fazer rodar solicito que clique com botão direito no arquivo <b>index.html</b> e escolha a opção <b>"open with live server"</b>, provavelmente você verá uma tela assim:
+  
   <img src=".github/03Atividade.png">
   -Depois de abrir é só testar o funcionamento do programa.
   -Para ver o script, solicito que entre no arquivo <b>03.Atividade.js</b>, além do código, também tem algumas explicações do mesmo.
