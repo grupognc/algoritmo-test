@@ -2,6 +2,7 @@
 Antes de prosseguir com a explicação de como testar o <b>código</b>, gostaria de informar que cada atividade foi colocado dentro de uma pasta distinta, porquê na <b>Atividade 03</b> fiz algo que precisou de uma organização de pasta melhor.
 
 *Ficando com a estrutura:
+
 <img src=".github/Estrutura.png">
 
 *Para testar os códigos, solicito que faça o uso do Visual Studio Code e baixe as seguinte extensões:
