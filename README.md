@@ -1,5 +1,23 @@
 # Teste de algoritmo
+Antes de prosseguir com a explicação de como testar o <b>código</b>, gostaria de informar que cada atividade foi colocado dentro de uma pasta distinta, porquê na <b>Atividade 03</b> fiz algo que precisou de uma organização de pasta melhor.
 
+*Ficando com a estrutura:
+<img src=".github/Estrutura.png">
+
+*Para testar os códigos, solicito que faça o uso do Visual Studio Code e baixe as seguinte extensões:
+
+1. Code Runner: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+  -Para fazer um script rodar basta teclar <b>ctrl + alt + n</b>.
+  -Para poder parar o script basta teclar <b>ctrl + alt + m</b>.
+
+  Obs: Solicito que use somente essa extensão para as <b>Atividades 1 e 2</b>.
+
+2. Live Server: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+  -Para fazer rodar solicito que clique com botão direito no arquivo <b>index.html</b> e escolha a opção <b>"open with live server"</b>, provavelmente você verá uma tela assim:
+  <img src=".github/03Atividade.png">
+  -Depois de abrir é só testar o funcionamento do programa.
+  -Para ver o script, solicito que entre no arquivo <b>03.Atividade.js</b>, além do código, também tem algumas explicações do mesmo.
 
 ### Será avaliado:
 
